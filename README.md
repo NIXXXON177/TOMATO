@@ -1,8 +1,6 @@
 # Tomato Timer
 
-Приложение для управления временем по методу "Помидора" (Pomodoro Technique).
-
-![Tomato Timer](src/img/svg/noto_tomato.svg)
+Приложение для управления временем по методу "Tomato" (TomatoTimer) ![Tomato Timer](src/img/svg/noto_tomato.svg) . 
 
 ## Описание
 
